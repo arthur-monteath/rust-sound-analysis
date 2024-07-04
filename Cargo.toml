@@ -1,0 +1,9 @@
+[package]
+name = "sound_analysis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hound = "3.4"
+fluidlite = "0.2.1"
+rustfft = "6.0"
